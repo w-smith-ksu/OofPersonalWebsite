@@ -1,0 +1,34 @@
+/* id-based rule */
+#bold { 
+  font-weight: bold;
+}
+
+/* class-based rule */
+.red { 
+  color: red;
+}
+
+.movieScriptText {
+  font-family: monospace
+}
+
+p {
+  font-size: 1.2em;
+  font-family: cursive
+}
+
+h1{
+  font-size: 8em;
+}
+h1{
+  font-size: 4em;
+}
+
+
+a {
+  color:yellow
+}
+
+body {
+  background-color: #705d1a;
+}
